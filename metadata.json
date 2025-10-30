@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio Transcriber",
+  "description": "An intelligent audio transcriber that processes audio files to generate timestamped transcripts with speaker diarization. Users can edit speaker names and download the final transcript.",
+  "requestFramePermissions": []
+}
